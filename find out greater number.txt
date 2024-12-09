@@ -1,0 +1,9 @@
+a=int(input("value of a:")) 
+b=int(input("value of b:"))
+c=int(input("value of c:"))
+if a>b:
+    print("a i greater than b &c")
+elif b>c:
+    print(" b is greater than c & a")
+elif c>a :
+    print("c is greater than a & b")
